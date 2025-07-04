@@ -22,7 +22,7 @@ A simple yet fully functional calculator application built using Python's Tkinte
 
 ## 📸 Screenshot
 
-> ![Calculator Screenshot](screenshot.png)  
+> ![Calculator Screenshot](screenshot.jpg)  
 > *(Add a screenshot of your app here. Name the image `screenshot.png` and upload it in the root directory.)*
 
 ## 🧠 How It Works
