@@ -54,4 +54,5 @@ Button(root,text="3",width=5,height=1,font=("arial",30,"bold"),bd=1,fg="#fff",bg
 Button(root,text="0",width=5,height=1,font=("arial",30,"bold"),bd=1,fg="#fff",bg="green",command=lambda:show("0")).place(x=440,y=400)
 Button(root,text=".",width=5,height=1,font=("arial",30,"bold"),bd=1,fg="#fff",bg="green",command=lambda:show(".")).place(x=10,y=500)
 Button(root,text="=",width=5,height=1,font=("arial",30,"bold"),bd=1,fg="#fff",bg="green",command=lambda:calculate()).place(x=150,y=500)
+
 root.mainloop()
